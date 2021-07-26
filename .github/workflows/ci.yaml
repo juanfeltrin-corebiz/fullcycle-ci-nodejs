@@ -1,6 +1,6 @@
 name: ci-nodejs-workflow
 on:
-  pull_requests:
+  pull_request:
     branches:
       - master
 jobs: 
