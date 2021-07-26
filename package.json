@@ -1,0 +1,14 @@
+{
+  "name": "desafio-ci-nodejs",
+  "version": "1.0.0",
+  "description": "Nesse desafio, iremos consolidar os conhecimentos em relação a criação de uma pipeline de CI realizando os seguintes passos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tape": "^5.2.2"
+  }
+}
